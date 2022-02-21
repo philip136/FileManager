@@ -1,0 +1,25 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+obj/
+
+# Visual Studio
+.vs/
+build/
+Log/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+build/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
